@@ -1,3 +1,6 @@
+# Gunakan kode ini untuk mengevaluasi metrik mAP dari model RF-DETR
+# Kode ini mengganti default maxdet=100 menjadi maxdet=500
+
 from __future__ import annotations
 
 import copy
